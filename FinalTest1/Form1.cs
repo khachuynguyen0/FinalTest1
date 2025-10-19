@@ -21,5 +21,10 @@ namespace FinalTest1
         {
             MessageBox.Show("origin: Hello, World!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("push L1: Hello, World!");
+        }
     }
 }
