@@ -26,5 +26,10 @@ namespace FinalTest1
         {
             MessageBox.Show("push L1: Hello, World!");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
